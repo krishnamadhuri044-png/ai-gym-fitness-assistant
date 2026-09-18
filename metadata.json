@@ -1,0 +1,6 @@
+{
+  "name": "AI Gym & Fitness Assistant",
+  "description": "An all-in-one AI-powered fitness ecosystem featuring an AI personal trainer with real-time pose and rep tracking, AI dietician, virtual gym buddy, habit predictor, workout planner, IoT smart gym assistant, and admin dashboard.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
